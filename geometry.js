@@ -1,13 +1,13 @@
 function getTriangleArea(height, width) {
-  /* Your code here */
+  /* Your amazing code here 🚀 */
 }
 
 function getSquareArea(side) {
-  /* Your code here */
+  /* Your amazing code here 🚀 */
 }
 
 function getCircleArea(radius) {
-  /* Your code here */
+  /* Your amazing code here 🚀 */
 }
 
 module.exports = {

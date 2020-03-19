@@ -26,4 +26,7 @@ jobs:
       run: |
         echo You should not modify the test files! If you are stucked, feel free to ask 😊
         echo Good luck! 🚀
-        exit 1
+    - name: Automatic Revert
+      uses: srt32/revert@v0.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

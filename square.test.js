@@ -1,7 +1,7 @@
 const { getSquareArea } = require("./geometry");
 
 test("Square Side => 3", () => {
-  expect(getSquareArea(3)).toBe(9);
+  expect(getSquareArea(3)).toBe(null);
 });
 
 test("Square Side => 12", () => {

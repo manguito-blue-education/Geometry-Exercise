@@ -4,6 +4,15 @@ In this exercise you have to write code in the file `geometry.js` for calculatin
 
 You should write the code inside the curly braces, where it says `Your amazing code here`.
 
+For testing your code you must run: 
+
+```sh
+npm install
+
+npm run test
+
+```
+
 Notes:
 
 - You can read the test files, so you can have an idea of what is the expected result, but **do not edit them** please.
